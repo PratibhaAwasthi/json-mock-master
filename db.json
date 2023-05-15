@@ -1,0 +1,230 @@
+{
+  "petproducts": [
+    {
+      "id": "petItem1",
+      "name": "Pedigree Dog",
+      "price": 29.99,
+      "company": "Pedigree",
+      "image": "https://i.pinimg.com/564x/bf/5a/14/bf5a14f71be6a6f2f10e086b3e3d0454.jpg",
+      "description": "A bag of high-quality dog food that provides complete and balanced nutrition for adult dogs.",
+      "category": "Dog",
+      "shipping": true,
+      "featured": true
+    },
+    {
+      "id": "petItem2",
+      "name": "Friskies Tuna",
+      "price": 24.99,
+      "company": "Friskies",
+      "image": "https://i.pinimg.com/564x/ca/e8/a1/cae8a135ba3eae54b07030365bda3270.jpg",
+      "description": "A can of wet cat food that is made with real chicken and provides complete and balanced nutrition for adult cats.",
+      "category": "Cat",
+      "shipping": true
+    },
+    {
+      "id": "petItem3",
+      "name": "Milk-Bone MaroSnacks",
+      "price": 9.99,
+      "company": "Milk-Bone",
+      "colors": ["#8B4513", "#FFFFFF"],
+      "image": "https://i.pinimg.com/564x/ed/c2/3b/edc23b23a6538a31db30cacd6caacda6.jpg",
+      "description": "A box of dog treats that are made with real chicken and beef and are great for training or rewarding your dog.",
+      "category": "Dog",
+      "shipping": true,
+      "featured": true
+    },
+    {
+      "id": "petItem4",
+      "name": "SmartyKat Catnip",
+      "price": 4.99,
+      "company": "SmartyKat",
+      "colors": ["#228B22", "#FFFFFF"],
+      "image": "https://i.pinimg.com/564x/a0/12/ba/a012ba70ac0043f38bdf71cd6d4a17dc.jpg",
+      "description": "A bag of catnip that will stimulate your cat's senses and provide hours of entertainment.",
+      "category": "Cat",
+      "shipping": true
+    },
+    {
+      "id": "petItem5",
+      "name": "KONG Dog toy",
+      "price": 11.99,
+      "company": "KONG",
+      "colors": ["#FFD700", "#FFFFFF"],
+      "image": "https://i.pinimg.com/564x/ce/46/ec/ce46ec68e330c810aa0d0441ff0fbacc.jpg",
+      "description": "A durable and chew-resistant dog toy that is great for playing fetch or keeping your dog entertained.",
+      "category": "Dog",
+      "shipping": true,
+      "featured": true
+    },
+
+    {
+      "id": "petItem6",
+      "name": "KONG Classic Dog Toy",
+      "price": 12.99,
+      "company": "KONG",
+      "colors": ["Red"],
+      "image": "https://i.pinimg.com/564x/f5/01/34/f501345658a781ea8b5433b70441cf4c.jpg",
+      "description": "The KONG Classic is the gold standard of dog toys and has become the staple for dogs around the world for over forty years. Offering enrichment by helping satisfy dogs' instinctual needs, the KONG Classic's unique natural red rubber formula is ultra-durable with an erratic bounce that is ideal for dogs that like to chew while also fulfilling a dog's need to play.",
+      "category": "Dog",
+      "shipping": true
+    },
+    {
+      "id": "petItem7",
+      "name": "Tetra Whisper EX 70 Filter",
+      "price": 34.99,
+      "company": "Tetra",
+      "colors": ["Black"],
+      "image": "https://i.pinimg.com/564x/3b/c2/01/3bc2011519cbd2ab6fd7bb18dd3eeaf6.jpg",
+      "description": "The Tetra Whisper EX 70 Filter provides an unrivaled combination of quiet operation, efficiency, and ease of use. The patented filter system keeps water sparkling clean and healthy for your fish, with a convenient Timestrip included to help you remember when it's time to change the filter.",
+      "category": "Fish",
+      "shipping": true
+    },
+    {
+      "id": "petItem8",
+      "name": "Oxbow Essentials Adult Guinea Pig Food",
+      "price": 19.99,
+      "company": "Oxbow",
+      "colors": ["Green"],
+      "image": "https://i.pinimg.com/564x/fd/f3/6c/fdf36c1441f9effb0cf807422d3e6096.jpg",
+      "description": "Oxbow Essentials Adult Guinea Pig Food provides complete and balanced nutrition for adult guinea pigs. Made from hand-selected Timothy hay, this food contains all the vitamins and nutrients your pet needs to thrive, with added Vitamin C to promote optimal health.",
+      "category": "Guinea Pig",
+      "shipping": true
+    },
+    {
+      "id": "petItem9",
+      "name": "Arm & Hammer Clump & Seal Cat Litter",
+      "price": 21.99,
+      "company": "Arm & Hammer",
+      "colors": ["Gray"],
+      "image": "https://i.pinimg.com/564x/cc/f8/45/ccf84564fae9bd3d97d3a87e134cbadd.jpg",
+      "description": "Arm & Hammer Clump & Seal Cat Litter uses a proprietary blend of moisture-activated micro-granules to form an odor-containing seal around your cat's waste, eliminating odors for 7 days or more. The ultra-low dust formula makes for easy cleanup, while the hard-clumping action makes scooping a breeze.",
+      "category": "Cat",
+      "shipping": true
+    },
+
+    {
+      "id": "petItem10",
+      "name": "KONG Batman Duckie Dog Toy",
+      "price": 12.99,
+      "company": "KONG",
+      "colors": ["#FFC107", "#FFFFFF"],
+      "image": "https://images.unsplash.com/photo-1559715541-5daf8a0296d0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=986&q=80",
+      "description": "The KONG Classic Dog Toy is made of durable rubber and is perfect for chewing and playing fetch. Its unique shape also makes it great for stuffing with treats.",
+      "category": "Dog",
+      "featured": true,
+      "shipping": true
+    },
+    {
+      "id": "petItem11",
+      "name": "PetFusion Ultimate Cat Scratcher Lounge",
+      "price": 49.95,
+      "company": "PetFusion",
+      "colors": ["#F0E68C", "#FFFFFF"],
+      "image": "https://i.pinimg.com/564x/a3/dd/67/a3dd67e6397f0ed906dfc0e634573bcc.jpg",
+      "description": "The PetFusion Ultimate Cat Scratcher Lounge is a multi-functional scratcher and lounger that provides a comfortable place for cats to rest and play. It is made of recycled cardboard and has a curved design that promotes healthy scratching and stretching.",
+      "category": "Cat",
+      "featured": true,
+      "shipping": true
+    },
+    {
+      "id": "petItem12",
+      "name": "Blue Buffalo Life Protection Formula Dog Food",
+      "price": 54.99,
+      "company": "Blue Buffalo",
+      "colors": ["#FFFFFF"],
+      "image": "https://i.pinimg.com/564x/2d/1f/bb/2d1fbbf0d7887121eea89c1fcb2a861d.jpg",
+      "description": "Blue Buffalo Life Protection Formula Dog Food is made with real meat, fruits, and vegetables and is free from artificial preservatives, colors, and flavors. It provides a balanced diet for dogs of all ages and sizes.",
+      "category": "Dog",
+      "shipping": true
+    },
+    {
+      "id": "petItem13",
+      "name": "Milk-Bone MaroSnacks Dog Treats",
+      "price": 8.99,
+      "company": "Milk-Bone",
+      "colors": ["#FFFFFF"],
+      "image": "https://i.pinimg.com/564x/77/d1/60/77d160b11921e6ed0d1bf7fd26e39642.jpg",
+      "description": "Milk-Bone MaroSnacks Dog Treats are crunchy and flavorful treats that are perfect for rewarding and training dogs. They are made with real bone marrow and are fortified with 12 essential vitamins and minerals.",
+      "category": "Dog",
+      "shipping": true
+    },
+    {
+      "id": "petItem14",
+      "name": "K&H Pet Products Ortho Bolster Sleeper Dog Bed",
+      "price": 89.99,
+      "company": "K&H Pet Products",
+      "colors": ["#ECEFF1", "#546E7A"],
+      "image": "https://i.pinimg.com/564x/53/39/b5/5339b5a46b712a2a50a6d4ebf9d3e83e.jpg",
+      "description": "The K&H Pet Products Ortho Bolster Sleeper Dog Bed provides comfort and support for dogs of all ages and sizes. It has a soft, plush sleep surface and a bolster design that provides additional support and security.",
+      "category": "Dog",
+      "featured": true,
+      "shipping": true
+    },
+    {
+      "id": "petItem15",
+      "name": "Hamster Wheel",
+      "company": "PetPro",
+      "price": 29.99,
+      "colors": ["#E6E6E6", "#BFBFBF"],
+      "image": "https://i.pinimg.com/736x/b3/7b/02/b37b02132081c915591f8418065f9f8c.jpg",
+      "description": "A silent hamster wheel for your furry little friend to exercise in without any noise. The wheel is made with high-quality material that will last long.",
+      "category": "Hamster",
+      "shipping": true
+    },
+    {
+      "id": "petItem16",
+      "name": "Parrot Stand",
+      "company": "PetPro",
+      "price": 129.99,
+      "colors": ["#E6E6E6", "#BFBFBF", "#6B6B6B"],
+      "image": "https://i.pinimg.com/564x/e1/b5/56/e1b556521dab1ec513d46cd8de41bd5c.jpg",
+      "description": "A stand for your parrot that can be adjusted to different heights. The stand is made with high-quality material and comes with a food and water bowl for your pet.",
+      "category": "Bird",
+      "shipping": true
+    },
+    {
+      "id": "petItem17",
+      "name": "Rabbit Hutch",
+      "company": "PetPro",
+      "price": 239.99,
+      "colors": ["#E6E6E6", "#BFBFBF"],
+      "image": "https://i.pinimg.com/564x/76/2b/d7/762bd76f30d27ea5156f691be058f2b8.jpg",
+      "description": "A large rabbit hutch with a nesting area and a play area. The hutch is made with high-quality material and is perfect for keeping your pet rabbit comfortable and happy.",
+      "category": "Rabbit",
+      "shipping": true
+    },
+    {
+      "id": "petItem18",
+      "name": "Pet Stairs",
+      "company": "PetPro",
+      "price": 49.99,
+      "colors": ["#E6E6E6", "#BFBFBF"],
+      "image": "https://i.pinimg.com/564x/1a/79/1e/1a791e58793274d5373be95ef2f26983.jpg",
+      "description": "Pet stairs that can be used to help your furry friend get to high places. The stairs are made with high-quality material and are perfect for small dogs and cats.",
+      "category": "Dog",
+      "shipping": true
+    },
+
+    {
+      "id": "petItem19",
+      "name": "Fish Tank",
+      "company": "PetPro",
+      "price": 199.99,
+      "colors": ["#E6E6E6", "#BFBFBF", "#A9A9A9"],
+      "image": "https://images.unsplash.com/photo-1583949184685-33fda190a216?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1572&q=80",
+      "description": "A large fish tank that can hold multiple fish. The tank is made with high-quality material and comes with a filter to keep the water clean.",
+      "category": "Fish"
+    },
+    {
+      "id": "petItem20",
+      "name": "Chicken Jerky Treats",
+      "price": 12.99,
+      "company": "Pet Delight",
+      "colors": ["#F8E0E0"],
+      "image": "https://i.pinimg.com/564x/e4/e7/18/e4e718d611eef3f738367902ceccc1ca.jpg",
+      "description": "These chicken jerky treats are made with all-natural, high-quality chicken breast, and are a perfect snack for dogs of all sizes. They are free from artificial colors, flavors, and preservatives, and are made in the USA. The treats come in a resealable bag to keep them fresh.",
+      "category": "Dog",
+      "shipping": true
+    }
+  ]
+}
