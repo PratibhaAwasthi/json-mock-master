@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": "petItem2",
+      "name": "Friskies Tuna",
+      "company": "Friskies",
+      "price": 24.99,
+      "description": "Friskies dry cat food is made with real meat, poultry, or fish as the first ingredient, and contains a blend of essential nutrients to support your cat's overall health and wellbeing. Each bag is carefully formulated to provide a complete and balanced diet that meets your cat's specific nutritional needs.",
+      "category": "Cat",
+      "shipping": true,
+      "stock": 12,
+      "reviews": 58,
+      "stars": 2.8,
+      "image": [
+        {
+          "id": "randomid1",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/ca/e8/a1/cae8a135ba3eae54b07030365bda3270.jpg",
+          "filename": "prod-1.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid2",
+          "width": 1080,
+          "height": 650,
+          "url": " https://i.pinimg.com/564x/ca/e8/a1/cae8a135ba3eae54b07030365bda3270.jpg",
+          "filename": "prod-2.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid3",
+          "width": 1080,
+          "height": 650,
+          "url": " https://i.pinimg.com/564x/43/88/70/438870c0f0ef7f94479a30f3a10be7e3.jpg",
+          "filename": "prod-3.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid4",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/77/bd/cc/77bdcc661788b2834f416a3a02e95bff.jpg",
+          "filename": "prod-4.png",
+          "size": 1080,
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
